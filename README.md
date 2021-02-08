@@ -1,9 +1,16 @@
 # Fabric Example Mod
 
-## Setup
+    If the farmland block is dehydrated and nothing is planted on it for too long. (DONE)
+    If the player or any mob jumps/falls on the block (with a greater chance as falling speed increases). (DONE)
+    If a piston arm is extended over a farmland block. (DONE)
+    If a piston pushes a farmland block down. (MISSING)
+    If a solid block covers the top surface of the farmland block such as when pumpkin or melon blocks appear or trees grow. (DONE)
+    If an enderman teleports directly on top of a farmland block. (DONE)
+    If snow falls directly on top of a farmland block. (DONE)
+    If a ravager walks on it. (DONE)
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+## Install
 
-## License
+Put the jar into the mods folder.
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+For server owners players do not need to have it installed to work.

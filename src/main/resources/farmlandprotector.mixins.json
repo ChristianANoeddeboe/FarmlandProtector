@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.fabricmc.angercraft.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "FarmlandBlockMixin",
+    "FarmlandBlockInvoker"
+  ],
+  "server": [
+    "FarmlandBlockMixin",
+    "FarmlandBlockInvoker"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
